@@ -1,0 +1,12 @@
+D:\Fereshteh\BasicMicroservice\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net7.0\Play.Catalog.Contracts.deps.json
+D:\Fereshteh\BasicMicroservice\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net7.0\Play.Catalog.Contracts.dll
+D:\Fereshteh\BasicMicroservice\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net7.0\Play.Catalog.Contracts.pdb
+D:\Fereshteh\BasicMicroservice\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net7.0\Play.Catalog.Contracts.csproj.AssemblyReference.cache
+D:\Fereshteh\BasicMicroservice\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net7.0\Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fereshteh\BasicMicroservice\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net7.0\Play.Catalog.Contracts.AssemblyInfoInputs.cache
+D:\Fereshteh\BasicMicroservice\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net7.0\Play.Catalog.Contracts.AssemblyInfo.cs
+D:\Fereshteh\BasicMicroservice\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net7.0\Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+D:\Fereshteh\BasicMicroservice\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net7.0\Play.Catalog.Contracts.dll
+D:\Fereshteh\BasicMicroservice\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net7.0\refint\Play.Catalog.Contracts.dll
+D:\Fereshteh\BasicMicroservice\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net7.0\Play.Catalog.Contracts.pdb
+D:\Fereshteh\BasicMicroservice\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net7.0\ref\Play.Catalog.Contracts.dll
